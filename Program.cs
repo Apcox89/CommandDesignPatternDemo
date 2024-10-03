@@ -65,7 +65,7 @@ namespace SD725
 
         public void PrintName()
         {
-            Console.WriteLine("Print Name Action");
+            Console.WriteLine("Print Name Action Invoked");
         }
     }
 
